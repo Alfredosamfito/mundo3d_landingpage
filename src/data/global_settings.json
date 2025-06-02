@@ -1,57 +1,41 @@
 {
-  "title": "blackspike astro landing page",
-  "description": "A free Astro landing theme made with Tailwind",
+  "title": "Mundo 3D",
+  "description": "Servicio de impresión 3D y diseño de modelos 3D.",
   "social_image": "/1200x630.jpg",
   "base_url": "https://astro-theme.blackspike.com",
   "demo": {
-    "title": "Need design?",
-    "content": "<strong>Get a guided tour through our services</strong>, and find out how you and your team can change the way you work, forever.",
-    "cta": "Book a call"
+    "title": "Si requieres de nuestros servicio:",
+    "content": "Por favor envíanos un mensaje con tu requerimiento y te responderemos a la brevedad.",
+    "cta": "Solicita tu Cotización"
   },
   "theme_color": "#18181b",
   "nav": [
     {
-      "title": "Services",
+      "title": "1.- Servicios",
       "link": "/#services"
     },
     {
-      "title": "Case studies",
+      "title": "2.- Productos",
       "link": "/#case-studies"
     },
     {
-      "title": "Pricing",
+      "title": "3.- Precios",
       "link": "/#pricing"
     },
     {
-      "title": "FAQ",
+      "title": "4.- Preguntas Frecuentes",
       "link": "/#faq"
-    },
-    {
-      "title": "Newsletter",
-      "link": "/#newsletter"
     }
   ],
 
   "social_links": [
     {
-      "title": "Twitter / X",
-      "link": "https://x.com/blackspikeltd/"
+      "title": "Instagram",
+      "link": "https://www.instagram.com/_mundo_3d_/"
     },
     {
-      "title": "Mastodon",
-      "link": "https://mastodon.cloud/@blackspike"
-    },
-    {
-      "title": "GitHub",
-      "link": "https://github.com/blackspike/"
-    },
-    {
-      "title": "LinkedIn",
-      "link": "https://www.linkedin.com/company/blackspike"
-    },
-    {
-      "title": "Bluesky",
-      "link": "https://bsky.app/profile/blackspike.com/"
+      "title": "Correo Electrónico",
+      "link": "mailto:alfredo.rubilar@gmail.com"
     }
   ]
 }

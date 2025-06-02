@@ -1,30 +1,30 @@
 [
   {
-    "title": "Basic plan",
-    "tag": "Most popular",
-    "content": "One designer, 5 days a month",
-    "cta": "Start free trial",
-    "price": 999,
+    "title": "Mundo 3D",
+    "tag": "Impresión y Diseño",
+    "content": "Impresión directa o diseñamos para usted",
+    "cta": "Consulta Ahora!",
+    "price": 10000,
     "services": [
-      { "item": "Access to basic services" },
-      { "item": "Basic assets and logos" },
-      { "item": "Up to 10 individual assets" },
-      { "item": "Teams/slack chat" },
-      { "item": "Cancel Anytime" }
+      { "item": "Piezas sólidas" },
+      { "item": "Acabado Profesional" },
+      { "item": "Materiales resistentes" },
+      { "item": "Productos de calidad" },
+      { "item": "Obtén precio por cantidad" }
     ]
   },
   {
-    "title": "Enterprise plan",
-    "tag": "Best value",
-    "content": "One team, 5 days a month",
-    "cta": "Enquire now",
-    "price": 2999,
+    "title": "Mundo Láser",
+    "tag": "Grabados y Personalización",
+    "content": "Utilizamos la última tecnología láser para grabar y personalizar productos.",
+    "cta": "Consulta Ahora!",
+    "price": 5000,
     "services": [
-      { "item": "All basic plan services" },
-      { "item": "100 assets" },
-      { "item": "Advanced reporting and analytics" },
-      { "item": "Up to 30 individual renders" },
-      { "item": "120GB storage allowance" }
+      { "item": "Grabados en distantas capas" },
+      { "item": "Detallles precisos" },
+      { "item": "Logos, diseños propios, marcas" },
+      { "item": "Crea regalos con tu marca" },
+      { "item": "Haz ue tus clientes te recuerden" }
     ]
   }
 ]

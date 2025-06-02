@@ -1,14 +1,14 @@
 {
-  "hero_title": "blackspike astro landing page",
-  "hero_content": "<p><strong>A free Astro landing theme made with Tailwind</strong> to help kick start your Astro website.</p><p>Uses modern CSS and HTML features for added zip, plus a slick swiper carousel. All in Astro JSX.</p>",
-  "services_title": "Our services",
-  "clients_title": "Trusted by some great companies",
-  "testimonials_title": "Clients ♥ us",
-  "case_studies_title": "Case studies",
-  "pricing_title": "We do design retainers",
-  "quote_content": "This <strong>design agency</strong> is a <strong>game changer</strong>. Its <strong>creative vision</strong>, <strong>user-focused approach</strong>, and <strong>seamless collaboration</strong> have <strong>transformed</strong> the way we <strong>build our brand</strong>. It’s <strong>not just an agency</strong> — it’s a <strong>powerful partner</strong> that <strong>delivers real results</strong>.",
-  "quote_cite": "Sean Higgins",
-  "quote_role": "CTO, Interia",
-  "quote_image": "/content-images/quote-man.avif",
-  "faq_title": "Frequently Asked Questions"
+  "hero_title": "Transforma tus Ideas en realidad: Impresión 3D, Diseño y Grabado Láser de Precisión.",
+  "hero_content": "<p><strong>  Soluciones Innovadoras en Diseño 3D, Impresión y Personalización Láser.</strong> Desde prototipos funcionales y piezas únicas hasta regalos personalizados y branding corporativo con la más alta calidad.</p>",
+  "services_title": "Nuestros servicios",
+  "clients_title": "Quienes han confiado en nosotros",
+  "testimonials_title": "Clientes que nos aman... ♥ ",
+  "case_studies_title": "Nuestros Productos",
+  "pricing_title": "Nuestros Precios",
+  "quote_content": "Es la mejor agencia de diseño 3D con la que hemos trabajado. Su atención al detalle y compromiso con la calidad son excepcionales.<strong>     Han transformado nuestra visión en una realidad tangible.</strong> Recomiendo encarecidamente sus servicios a cualquier persona que busque soluciones de diseño 3D de alta calidad.",
+  "quote_cite": "Alfredo Rubilar",
+  "quote_role": "Jefe de Planificación, Rebuss",
+  "quote_image": "https://avatars.githubusercontent.com/u/87924950?s=400&u=2e5004857fcb2939ecaa21d04882a553d69fee7f&v=4",
+  "faq_title": "Preguntas Frecuentes:"
 }

@@ -1,52 +1,27 @@
 [
   {
-    "title": "Clamaane",
+    "title": "Alfredo",
     "image": "/content-images/logo-01.svg",
     "link": "https://www.blackspike.com/"
   },
   {
-    "title": "Komplex",
+    "title": "Elba",
     "image": "/content-images/logo-02.svg",
     "link": "https://www.blackspike.com/"
   },
   {
-    "title": "Splashed",
+    "title": "Francisca",
     "image": "/content-images/logo-03.svg",
     "link": "https://www.blackspike.com/"
   },
   {
-    "title": "HydroLab",
+    "title": "Emilia",
     "image": "/content-images/logo-04.svg",
     "link": "https://www.blackspike.com/"
   },
   {
-    "title": "Aromaf",
+    "title": "Nicolas",
     "image": "/content-images/logo-05.svg",
-    "link": "https://www.blackspike.com/"
-  },
-  {
-    "title": "Mediora",
-    "image": "/content-images/logo-06.svg",
-    "link": "https://www.blackspike.com/"
-  },
-  {
-    "title": "wellboth",
-    "image": "/content-images/logo-07.svg",
-    "link": "https://www.blackspike.com/"
-  },
-  {
-    "title": "humbbble",
-    "image": "/content-images/logo-08.svg",
-    "link": "https://www.blackspike.com/"
-  },
-  {
-    "title": "Interia",
-    "image": "/content-images/logo-09.svg",
-    "link": "https://www.blackspike.com/"
-  },
-  {
-    "title": "Anorch",
-    "image": "/content-images/logo-10.svg",
     "link": "https://www.blackspike.com/"
   }
 ]
